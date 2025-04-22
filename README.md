@@ -1,6 +1,6 @@
 # Content-Category-Analysis
 
-![Frame]()
+![Frame](visuals/frame.jpg)
 
 ### Project Summary
 
