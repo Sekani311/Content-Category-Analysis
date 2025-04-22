@@ -15,7 +15,7 @@ In this project, I worked as a part of the Accenture’s Data Team to analyze th
 3. The exploratory data analysis and insights can be accessed in
    - [Notion](https://dorian-eyebrow-1bb.notion.site/Content-Category-Analysis-a23c1856b2814cc89ae4e982e380b775)
    - [Medium](https://medium.com/@_precious/content-rating-analysis-20053cf538fd)
-   - [Linkedln]()
+   - [Linkedln](https://www.linkedin.com/pulse/diagnosing-drop-user-engagement-using-sql-precious-igwe-jbdcf)
 
 ### Insight
 
