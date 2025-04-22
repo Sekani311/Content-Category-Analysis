@@ -1,5 +1,7 @@
 # Content-Category-Analysis
 
+![Frame]()
+
 ### Project Summary
 
 This project is a part of the Accenture North America Virtual Experience Programs that provides a deep dive into the evolving world of data from an analytics and visualization perspective with Navigating Numbers. The focus is to equip participants with the necessary data basic skills such as data cleaning, modeling, visualization and storytelling. 
