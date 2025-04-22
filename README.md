@@ -11,7 +11,7 @@ In this project, I worked as a part of the Accenture’s Data Team to analyze th
 ### Sources and links for full read
 
 1. The raw datasets can be accessed from the [Forage website](https://www.theforage.com/virtual-experience/hzmoNKtzvAzXsEqx8/accenture-north-america/data-analytics-mmlb/data-cleaning-modeling)
-2. The cleaned dataset can be found in the [cleaned data file](cleaned-data)
+2. The cleaned dataset can be found in the [cleaned data file](https://github.com/Sekani311/Content-Category-Analysis/blob/main/cleaned%20data/cleaned_data.csv)
 3. The exploratory data analysis and insights can be accessed in
    - [Notion](https://dorian-eyebrow-1bb.notion.site/Content-Category-Analysis-a23c1856b2814cc89ae4e982e380b775)
    - [Medium](https://medium.com/@_precious/content-rating-analysis-20053cf538fd)
